@@ -20,4 +20,6 @@ Article that is reviewed: https://www.researchgate.net/profile/Huiyao-Dong/publi
   - Ability to learn complex patterns
  
 - What are the open questions?
-  - 
+  - Explainability and Trust
+  - Data quality and availability
+  - Computational complexity and practicality
