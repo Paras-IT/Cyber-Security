@@ -13,7 +13,9 @@
 - Identifying and preventing manipulation is the aim of organizational governance, social backlash, and technical countermeasures (such as prompt filtering and content sanitization).
 - AISO subtly alters the dynamics of the workplace by providing strategic communicators with an edge and raising AI fluency to the level of an executive skill. 
 
-# Task C - Here are some links that i found interesting
+# Task C 
+- In h1 i reviewed a paper, Cybersecurity in the AI era: analyzing the impact of machine learning on intrusion detection
+
 - https://www.researchgate.net/profile/Huiyao-Dong/publication/389138418_Cybersecurity_in_the_AI_era_analyzing_the_impact_of_machine_learning_on_intrusion_detection/links/67c74395461fb56424f10d43/Cybersecurity-in-the-AI-era-analyzing-the-impact-of-machine-learning-on-intrusion-detection.pdf
 - https://darknetdiaries.com/episode/99/
 - https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html
