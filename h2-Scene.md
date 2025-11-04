@@ -14,8 +14,9 @@
 - AISO subtly alters the dynamics of the workplace by providing strategic communicators with an edge and raising AI fluency to the level of an executive skill. 
 
 # Task C 
-- In h1 i reviewed a paper, Cybersecurity in the AI era: analyzing the impact of machine learning on intrusion detection
+- In h1 i reviewed a paper, Cybersecurity in the AI era: analyzing the impact of machine learning on intrusion detection.
+- This paper investigates the revolutionary effects of machine learning (ML) and deep learning (DL) on intrusion detection systems (IDS) in comparison to traditional signature-based methodologies. It highlights the potential and challenges of integrating AI into cybersecurity defences. This Paper discusses five key areas of focus in the present research environment for AI-powered intrusion detection.
+Many of the basic benefits of ML/DL in intrusion detection are well acknowledged in the study. Despite the gains, the report clearly identifies a number of significant unresolved challenges and open concerns.
+Link of the article: https://www.researchgate.net/profile/Huiyao-Dong/publication/389138418_Cybersecurity_in_the_AI_era_analyzing_the_impact_of_machine_learning_on_intrusion_detection/links/67c74395461fb56424f10d43/Cybersecurity-in-the-AI-era-analyzing-the-impact-of-machine-learning-on-intrusion-detection.pdf
 
-- https://www.researchgate.net/profile/Huiyao-Dong/publication/389138418_Cybersecurity_in_the_AI_era_analyzing_the_impact_of_machine_learning_on_intrusion_detection/links/67c74395461fb56424f10d43/Cybersecurity-in-the-AI-era-analyzing-the-impact-of-machine-learning-on-intrusion-detection.pdf
-- https://darknetdiaries.com/episode/99/
-- https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html
+  
