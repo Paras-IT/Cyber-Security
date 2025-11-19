@@ -1,10 +1,15 @@
-# x) Why would you want to use a feed reader (and RSS/Atom)? Couldn't you just browse to each website?
+# Task H4-Feed me
+**x) Why would you want to use a feed reader (and RSS/Atom)? Couldn't you just browse to each website?**
   - Instead of visiting each website separately, a feed reader gathers new posts from all of your favorite websites in one location. You save time and effort by receiving a single stream of new content rather than having to monitor several websites for changes. Feed readers make sure you don't miss any significant postings or announcements by automatically retrieving updates as soon as they are released. RSS/Atom feeds remove clutter, pop-ups, and advertisements so you can concentrate on the content. In contrast to manually perusing websites, several feed readers allow you to download items for offline reading and arrange feeds by topic, priority, or tags. 
 
 - In short, a feed reader makes the process faster, cleaner, and more reliable rather than browsing each website.
 
-
-
+**y) Supreme court of Finland, case Osuuspankkikeskus port scan KKO:2003:36. Have a brief look, summarize the key thing in a couple of bullets or sentences.**
+  - Person "A" used a port scan to obtain unauthorized access and to find open proxy servers on a financial institution's network.
+  - The judges classified the act as an attempted data breach under Finnish criminal legislation (RL 38:8 §) not with standing the fact that the scan was unable to     get beyond the firewall.
+  - The defendant was mandated to reimburse the impacted organizations for all costs associated with security and investigation, totaling 75,000 Finnish marks.
+  - The Supreme Court upheld the seriousness of cybersecurity crimes by ruling that the act was detrimental and purposeful enough to prevent a reduction in             compensation, regardless of the defendant's age. 
+   
 **a) Install a feed reader. Show that it can read a feed (RSS or Atom). Include a screenshot of this. You can use any feed reader you like, and you can install the feed reader in your host OS if you like.**
  - I installed Thunderbird with the commnad - sudo apt-get -y install thunderbird
    <img width="839" height="568" alt="Screenshot From 2025-11-19 12-21-14" src="https://github.com/user-attachments/assets/118a92d7-a727-41ff-bb41-d9a56b227c6f" />
