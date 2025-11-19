@@ -1,1 +1,4 @@
+# x) Why would you want to use a feed reader (and RSS/Atom)? Couldn't you just browse to each website?
+  - Instead of visiting each website separately, a feed reader gathers new posts from all of your favorite websites in one location. You save time and effort by receiving a single stream of new content rather than having to monitor several websites for changes. Feed readers make sure you don't miss any significant postings or announcements by automatically retrieving updates as soon as they are released. RSS/Atom feeds remove clutter, pop-ups, and advertisements so you can concentrate on the content. In contrast to manually perusing websites, several feed readers allow you to download items for offline reading and arrange feeds by topic, priority, or tags. 
 
+- In short, a feed reader makes the process faster, cleaner, and more reliable rather than browsing each website.
