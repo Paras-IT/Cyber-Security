@@ -27,3 +27,14 @@ e) Follow security feeds for a while. What did you learn? What are the benefits 
  - Following all the feeds i learned that it is so fast and precise to read and learn about the topics or the website i chose. Mostly i browse websites directly which is time consuming, feeds help me to identify the required information from the websites.
  <img width="1268" height="665" alt="Screenshot From 2025-11-19 12-40-21" src="https://github.com/user-attachments/assets/6b0641c2-af9a-464b-8b4f-3325030479e0" />
 
+f) Port scan. How can criminals know what services your employer has? Disconnect your computer from the internet while doing the test (after you have installed the required software). Do the test inside your virtual machine.
+ - Installed the nmap port scanner in the VM,after disconneting from the internet i tied to ping 8.8.8.8 which was unsuccessful.
+   <img width="887" height="280" alt="Screenshot From 2025-11-19 13-57-44" src="https://github.com/user-attachments/assets/cb44da9d-d78d-4aac-a140-46e72c7f8c98" />
+ - I scanned the port of my local machine with the commnad - sudo nmap -A -v localhost and got result as in screenshot
+   <img width="588" height="685" alt="Screenshot From 2025-11-19 14-06-04" src="https://github.com/user-attachments/assets/3a72b21e-48f5-42f2-b3c8-c15cc7a608b3" />
+ - And i installed a daemon, apache2 and again scan the port, i got the result as in screenshot
+   <img width="588" height="715" alt="Screenshot From 2025-11-19 14-12-09" src="https://github.com/user-attachments/assets/ab168f05-d1ff-4e79-80f8-8655b1dbbc22" />
+ - After analysing both results,
+     - I found the purpose of the port scan is to performs an aggressive scan with verbose output, including OS detection, version detection, script scanning, and         traceroute and the target was localhost (127.0.0.1) which means the scan was run against the same machine.
+     - Before installing apache 2, only one port 631/tcp was open but after the installation port 80/tcp was also open, other were closed.
+     - The default Apache page is running, Linux kernel versions 5.4 to 6.2 is the OS detected, Network Distance: 0 hops confirms the scan was local.
