@@ -3,7 +3,12 @@
    - Goals - Masters degree course for Cybersecurity
       - More practicle and hand on tasks like identifying threats, securing networks, managing incidents, and using morden tools
       - After the course student will get knowledge about modern technices in cybersecurity
-  - Agenda - fundamental concepts related to cybersecurity program implementation, attack mechanisms, threat mitigation measures, risk management, incident response best practices, and information sharing and coordination policies and procedures.
+  - Agenda - fundamental concepts related to cybersecurity program implementation
+           - attack mechanisms
+           - threat mitigation measures
+           - risk management
+           - incident response best practices
+           - information sharing and coordination policies and procedures.
   - Exersices -  hands-on exercises to master network security, cryptography and ethical hacking in a secure and interactive playground environment. discussiosn and group work
   - Models of frameworks - NIST cybersecurity framework (CSF 2.0)
       - designed in response to an executive order to improve critical infrastructure cybersecurity which called for greater collaboration between the public and the private sector for identifying, assessing, and managing the risks of cybersecurity
